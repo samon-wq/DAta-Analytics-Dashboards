@@ -57,7 +57,7 @@ dataKey="value"
 <h2 className="text-lg font-semibold mb-2">Next Steps</h2>
 <ul className="list-disc list-inside space-y-2">
 <li>Finish AI & Data Analytics Fraud Detection Project</li>
-<li>Prepare for Job AI+Python Development</li>
+<li>Prepare for Job AI+Python Developer</li>
 <li>Study basics of Data Analytics Logs</li>
 </ul>
 <Button className="mt-4 w-full">Continue Learning</Button>
